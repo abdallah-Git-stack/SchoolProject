@@ -24,10 +24,18 @@ digram img
 
 some other pic
 
-| ![add person](./pic/add person screen.png) | ![app settings](./pic/appsettings.png) |
-|---------------------------------------------|----------------------------------------|
-| ![black theme](./pic/balck theme.png)      | ![blue theme](./pic/blue theme.png)    |
-| ![code pattern](./pic/code pattern.png)    | ![main log](./pic/mainlog.png)         |
-| ![main screen](./pic/mainscreen.png)       | ![person screen](./pic/personscrenn.png)|
-| ![show list screen](./pic/show list screen.png) | ![tier arch](./pic/tyer arch.png) |
 
+<img src="./pic/add person screen.png" width="500" />
+<img src="./pic/appsettings.png" width="500" />
+
+<img src="./pic/balck theme.png" width="500" />
+
+<img src="./pic/blue theme.png" width="500" />
+
+<img src="./pic/code pattern.png" width="500" />
+
+<img src="./pic/mainlog.png" width="500" />
+<img src="./pic/mainscreen.png" width="500" />
+<img src="./pic/personscrenn.png" width="500" />
+<img src="./pic/show list screen.png" width="500" />
+<img src="./pic/tyer arch.png" width="500" />
