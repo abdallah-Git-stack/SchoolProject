@@ -16,4 +16,12 @@ Automatic error logging in the database for easy issue tracking.
 
 Error logging also in Windows Event Viewer for transparency in system monitoring.  
 and another things 
-#
+
+
+
+digram img
+![digram](./DB/digram.png)
+
+<img src="./DB/digram.png" width="500" />
+
+some 
