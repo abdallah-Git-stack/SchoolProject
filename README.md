@@ -20,4 +20,4 @@ and another things
 
 
 digram img
-![digram](./db/digram.png)
+![digram](./DB/digram.png)
