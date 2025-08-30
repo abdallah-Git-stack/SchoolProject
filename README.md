@@ -21,3 +21,7 @@ and another things
 
 digram img
 ![digram](./DB/digram.png)
+
+<img src="./db/digram.png" width="500" />
+
+some 
