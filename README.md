@@ -20,8 +20,22 @@ and another things
 
 
 digram img
-![digram](./DB/digram.png)
+![digram](./pic/digram.png)
 
-<img src="./DB/digram.png" width="500" />
+some other pic
 
-some 
+<img src="./pic/add person screen.png" width="500" />
+<img src="./pic/appsettings.png" width="500" />
+
+<img src="./pic/balck theme.png" width="500" />
+
+<img src="./pic/blue theme.png.png" width="500" />
+
+<img src="./pic/code pattern.png" width="500" />
+
+<img src="./pic/mainlog.png.png" width="500" />
+<img src="./pic/mainscreen.png" width="500" />
+<img src="./pic/personscrenn.png.png" width="500" />
+<img src="./pic/show list screen.png" width="500" />
+<img src="./pic/tyer arch.png" width="500" />
+
